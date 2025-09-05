@@ -1,5 +1,5 @@
 ---
-title: "NLHI: Newfoundland and Labrador Health Index — a desktop application for domain-specific as well as composite population‑health monitoring"
+title: "NLHI v1.0: Newfoundland and Labrador Health Index — a desktop application for domain-specific as well as composite population‑health monitoring"
 tags:
   - public health
   - epidemiology
