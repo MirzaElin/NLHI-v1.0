@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this software if it is used in research."
+title: "NLHI: Newfoundland and Labrador Health Index — a desktop application for composite population-health monitoring"
+type: software
+authors:
+  - family-names: Elin
+    given-names: Mirza Niaz Zaman
+    affiliation: AMAL Youth & Family Centre, St. John’s, NL, Canada
+license: GPL-3.0-only
+version: "1.0.0"
+date-released: "2025-09-04"
+repository-code: "https://github.com/REPO/PATH"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Elin
+      given-names: Mirza Niaz Zaman
+  title: "NLHI: Newfoundland and Labrador Health Index — a desktop application for composite population‑health monitoring"
+  journal: "Journal of Open Source Software"
+  year: 2025
+  notes: "In review"
