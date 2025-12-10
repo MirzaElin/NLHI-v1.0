@@ -38,4 +38,4 @@ Create or select a region, enter mean age, population size, life expectancy, and
 See `CITATION.cff` and the JOSS paper (to appear).
 
 ## License
-GPL‑3.0‑only. See `LICENSE`.
+Custom (c)Mirza Niaz Zaman Elin. All Rights Reserved. 
